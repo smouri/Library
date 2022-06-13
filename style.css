@@ -1,0 +1,15 @@
+h1, h2 {
+  font-family: Lato;
+}
+#root {
+  display: flex;
+  height: 100vh;
+}
+.leftDiv {
+  width: 40%;
+  background-color: aqua;
+}
+.rightDiv {
+  width: 40%;
+  background-color: rgb(197, 88, 173);
+}
